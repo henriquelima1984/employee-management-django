@@ -15,11 +15,11 @@
 #### Utilize esse comando para instalar as dependências do projeto:
 
 ```console
-Poetry install 
+poetry install 
 ```
 
 #### Utilize esse comando para ativar o ambiente virtual:
 
 ```console
-Poetry shell 
+poetry shell 
 ```
